@@ -4,6 +4,12 @@
   "description": "A module that downloads and parses xml files.  This module is developed as a class exercise by students who attend Moon Highway's ILT for node js",
   "author": "Alex Banks <alex@moonhighway.com> (http://www.moonhighway.com)",
   "license": "MIT",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/brentertz/scapegoat/blob/master/LICENSE-MIT"
+    }
+  ],
   "keywords": [
     "js",
     "node",
