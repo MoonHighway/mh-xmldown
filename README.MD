@@ -14,6 +14,7 @@ Use
 Invoking the grab function will download an XML file from a server.  Parse the XML to JSON, return the parsed JSON, and
 save copies of both the xmlfile and the json file to the output folder.
 
+```javascript
         var downloader = require("mh-xmldown");
 
         downloader.grab('http://www.xmlfiles.com/sample.xml', './output', function (err, data) {
@@ -25,6 +26,7 @@ save copies of both the xmlfile and the json file to the output folder.
             var jsonResults = data;   // The xml data results parsed as JSON
 
         });
+```
 
 Note
 ----
