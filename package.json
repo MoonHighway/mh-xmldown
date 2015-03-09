@@ -1,0 +1,33 @@
+{
+  "name": "mh-xmldown",
+  "version": "0.1.0",
+  "description": "A module that downloads and parses xml files.  This module is developed as a class exercise by students who attend Moon Highway's ILT for node js",
+  "author": "Alex Banks <alex@moonhighway.com> (http://www.moonhighway.com)",
+  "license": "MIT",
+  "keywords": [
+    "js",
+    "node",
+    "npm",
+    "modules",
+    "fs",
+    "tutorial",
+    "nock",
+    "lesson"
+  ],
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "async": "0.9.0",
+    "request": "2.53.0",
+    "xml2js": "0.4.5"
+  },
+  "devDependencies": {
+    "chai": "2.1.1",
+    "nock": "1.1.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  }
+}
