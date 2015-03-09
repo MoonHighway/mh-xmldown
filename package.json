@@ -7,9 +7,13 @@
   "licenses": [
     {
       "type": "MIT",
-      "url": "https://github.com/brentertz/scapegoat/blob/master/LICENSE-MIT"
+      "url": "https://github.com/MoonHighway/mh-xmldown/blob/master/LICENSE-MIT"
     }
   ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/moonhighway/mh-xmldown.git"
+  },
   "keywords": [
     "js",
     "node",
